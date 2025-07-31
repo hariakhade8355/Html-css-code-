@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>मेरा YouTube चैनल</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>नेविगेशन</h2>
+    <ul>
+      <li><a href="#">होम</a></li>
+      <li><a href="#">मेरे वीडियो</a></li>
+      <li><a href="#">प्लेलिस्ट</a></li>
+      <li><a href="#">चैनल</a></li>
+      <li><a href="#">संपर्क करें</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>मेरे यूट्यूब वीडियो</h1>
+
+    <!-- पहला वीडियो -->
+    <div class="video-box">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID1"https://youtube.com/shorts/YGnvKkhCsHQ?si=w8doZj1APOPfW34Z frameborder="0" allowfullscreen></iframe>
+      <p>वीडियो का शीर्षक 1</p>
+    </div>
+
+    <!-- दूसरा वीडियो -->
+    <div class="video-box">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID2"https://youtube.com/shorts/YGnvKkhCsHQ?si=b9qTjBTNd9aKucpV frameborder="0" allowfullscreen></iframe>
+      <p>वीडियो का शीर्षक 2</p>
+    </div>
+
+    <!-- और वीडियो आप इसी तरह जोड़ सकते हैं -->
+  </div>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>मेरा YouTube चैनल</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>नेविगेशन</h2>
+    <ul>
+      <li><a href="#">होम</a></li>
+      <li><a href="#">मेरे वीडियो</a></li>
+      <li><a href="#">प्लेलिस्ट</a></li>
+      <li><a href="#">चैनल</a></li>
+      <li><a href="#">संपर्क करें</a></li>
+    </ul>
+  </div>
+
+  <div class="main-content">
+    <h1>मेरे यूट्यूब वीडियो</h1>
+
+    <!-- पहला वीडियो -->
+    <div class="video-box">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID1" frameborder="0" allowfullscreen></iframe>
+      <p>वीडियो का शीर्षक 1</p>
+    </div>
+
+    <!-- दूसरा वीडियो -->
+    <div class="video-box">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
+      <p>वीडियो का शीर्षक 2</p>
+    </div>
+
+    <!-- और वीडियो आप इसी तरह जोड़ सकते हैं -->
+  </div>
+
+</body>
+</html>
