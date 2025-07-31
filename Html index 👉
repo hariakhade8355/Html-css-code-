@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="देखिए Hari Akhade का धमाकेदार YouTube Shorts वीडियो - लाखों व्यूज वाला कंटेंट!" />
+  <meta name="keywords" content="YouTube Shorts, Viral Video, Hari Akhade, Funny Video, Motivational, GitHub Video Embed" />
+  <meta name="author" content="Hari Akhade" />
+  <title>🎬 Hari Akhade का धमाकेदार YouTube Shorts वीडियो</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f7f7f7;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #222;
+    }
+    iframe {
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #ff0000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background-color: #cc0000;
+    }
+  </style>
+</head>
+<body>
+  <h1>🙏 नमस्ते! देखिए मेरा धमाकेदार वीडियो 🎥</h1>
+  
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/AGXwzfRH60s"
+    title="YouTube Shorts Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+
+  <br>
+  <a class="btn" href="https://youtube.com/shorts/AGXwzfRH60s" target="_blank">👉 YouTube पर वीडियो देखें</a>
+</body>
+</html>
